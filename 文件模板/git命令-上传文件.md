@@ -1,27 +1,35 @@
-## gitÎÄ¼şÉÏ´«Ğ¡ÖªÊ¶
-git°²×°ºó
-1.³õÊ¼»¯ÅäÖÃ
+## gitæ–‡ä»¶ä¸Šä¼ å°çŸ¥è¯†
+gitå®‰è£…å<br>
+1. åˆå§‹åŒ–é…ç½®
+
 '''git init
   git config --global user.name 'your github name'
   git config --global user.eamil your eamil
 '''
-2.´´½¨ÎÄ¼ş¼Ğgit£¬½øÈëgitÎÄ¼ş¼Ğ
-3.Êó±êÓÒ¼ü½øÈëgit Bash here ³õÊ¼»¯ÉèÖÃ²Ö¿â
-*Ê¹ÓÃÃüÁî
+
+2. åˆ›å»ºæ–‡ä»¶å¤¹gitï¼Œè¿›å…¥gitæ–‡ä»¶å¤¹
+3. é¼ æ ‡å³é”®è¿›å…¥git Bash here åˆå§‹åŒ–è®¾ç½®ä»“åº“
+* ä½¿ç”¨å‘½ä»¤
+
 '''
   git init
+  
 '''
-4.clone ²Ö¿âµ½±¾µØ
+
+4. clone ä»“åº“åˆ°æœ¬åœ°
 '''
   git clone https://github.com/MOS-2019/DailySign.git
 '''
-5.ÔÚDailySignÖĞ´´½¨×Ô¼ºµÄÎÄ¼ş¼ĞÈç¡®ÍøÂç171-ĞÜĞÂÇ¿¡¯
 
-6.ÎÄ¼şÉÏ´«
+5. åœ¨DailySignä¸­åˆ›å»ºè‡ªå·±çš„æ–‡ä»¶å¤¹å¦‚â€˜ç½‘ç»œ171-ç†Šæ–°å¼ºâ€™
+
+6. æ–‡ä»¶ä¸Šä¼ 
+
 '''
   git status
   git add .
   git commit -m 'your describe'
   git push
 '''
-### ¿É²Î¿¼[git¹ÙÍø]:https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+### å¯å‚è€ƒ[gitå®˜ç½‘](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
